@@ -1,0 +1,17 @@
+{
+  "name": "Comeback Fund",
+  "short_name": "Comeback Fund",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#081412",
+  "theme_color": "#102d2a",
+  "description": "Community resilience protocol demo",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
